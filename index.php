@@ -4,6 +4,20 @@
 <head>
     <title></title>
     <meta charset="UTF-8">
+    <meta name="author" content="JIM">
+    <meta name="copyright" content="JIM">
+ 
+    <meta name="description" content="LEX 出來面對">
+
+    <meta itemprop="name" content="LEX 出來面對">
+    <meta itemprop="image" content="./123.PNG">
+    <meta itemprop="description" content="LEX 出來面對">
+
+    <meta property="og:url" content="./">
+    <meta property="og:title" content="LEX 出來面對">
+    <meta property="og:image" content="./123.PNG">
+    <meta property="og:description" content="LEX 出來面對">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -45,15 +59,15 @@
             <span id="Check_Txt" style="color:red">時間計數：<span id="Check_i">0小時0分0秒</span></span>
             <hr>
             <strong>
-            <p>
-                出來講說一下，副總跟我回說，您要自己來跟我解釋~~ <br>
-                我本來就不期望你會解釋~ <br>
-                別讓我猜到 <br>
-                不爽就直接說 <br>
-                別放在內心裡啊 <br>
-                一刀下去，答應的事情有做到啊 <br>
-                東西我都有寫完喔 <br>
-            </p>
+                <p>
+                    出來講說一下，副總跟我回說，您要自己來跟我解釋~~ <br>
+                    我本來就不期望你會解釋~ <br>
+                    別讓我猜到 <br>
+                    不爽就直接說 <br>
+                    別放在內心裡啊 <br>
+                    一刀下去，答應的事情有做到啊 <br>
+                    東西我都有寫完喔 <br>
+                </p>
             </strong>
         </div>
     </div>
