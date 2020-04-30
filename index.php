@@ -10,14 +10,14 @@
     <meta name="description" content="LEX 出來面對">
 
     <meta itemprop="name" content="LEX 出來面對">
-    <meta itemprop="image" content="./123.PNG">
+    <meta itemprop="image" content="https://comeout.herokuapp.com/123.PNG">
     <meta itemprop="description" content="LEX 出來面對">
 
-    <meta property="og:url" content="./">
+    <meta property="og:url" content="https://comeout.herokuapp.com">
     <meta property="og:title" content="LEX 出來面對">
-    <meta property="og:image" content="./123.PNG">
+    <meta property="og:image" content="https://comeout.herokuapp.com/123.PNG">
     <meta property="og:description" content="LEX 出來面對">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
