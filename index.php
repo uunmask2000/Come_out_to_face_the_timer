@@ -2,21 +2,21 @@
 <html lang="en">
 
 <head>
-    <title></title>
+    <title>Lex 考績??</title>
     <meta charset="UTF-8">
-    <meta name="author" content="JIM">
-    <meta name="copyright" content="JIM">
+    <meta name="author" content="貓咪">
+    <meta name="copyright" content="貓咪">
  
-    <meta name="description" content="LEX 出來面對">
+    <meta name="description" content="Lex Chien 出來面對">
 
-    <meta itemprop="name" content="LEX 出來面對">
+    <meta itemprop="name" content="Lex Chien 出來面對">
     <meta itemprop="image" content="https://comeout.herokuapp.com/123.PNG">
-    <meta itemprop="description" content="LEX 出來面對">
+    <meta itemprop="description" content="Lex Chien 出來面對">
 
     <meta property="og:url" content="https://comeout.herokuapp.com">
-    <meta property="og:title" content="LEX 出來面對">
+    <meta property="og:title" content="Lex Chien 出來面對">
     <meta property="og:image" content="https://comeout.herokuapp.com/123.PNG">
-    <meta property="og:description" content="LEX 出來面對">
+    <meta property="og:description" content="Lex Chien 出來面對 ~~~ www.xsoin.com">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
@@ -53,7 +53,7 @@
     <div class="full-height">
         <div class="medium-width">
             <span style="color:blue">
-                出來解釋 考績問題喔~~
+                出來解釋 考績問題喔 ~~
             </span>
             <hr>
             <span id="Check_Txt" style="color:red">時間計數：<span id="Check_i">0小時0分0秒</span></span>
